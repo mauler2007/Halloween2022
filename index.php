@@ -37,27 +37,21 @@ include_once ("languages/lang-".$contentLang.".php");
   <body>
     <div class="body">
       <div class="backgrounds">
-        
           <picture>
             <source srcset="images/main-bg/lend1-576.webp 576w, images/main-bg/lend1.webp"><img class="backgrounds__img backgrounds__img--1" src="images/main-bg/lend1.jpg" alt="">
           </picture>
-        
           <picture>
             <source srcset="images/main-bg/down2-576.webp 576w, images/main-bg/down2.webp"><img class="backgrounds__img backgrounds__img--2" src="images/main-bg/down2.png" alt="">
           </picture>
-        
           <picture>
             <source srcset="images/main-bg/mouses-mobile-576.webp 576w, images/main-bg/mouses3.webp"><img class="backgrounds__img backgrounds__img--3" src="images/main-bg/mouses3.png" alt="">
           </picture>
-        
           <picture>
             <source srcset="images/main-bg/moon4.png" media="(max-width: 576px)"><img class="backgrounds__img backgrounds__img--4" src="images/main-bg/moon4.png" alt="">
           </picture>
-        
           <picture>
             <source srcset="images/main-bg/pumpkin5.png" media="(max-width: 576px)"><img class="backgrounds__img backgrounds__img--5 animShowPumpkin" src="images/main-bg/pumpkin5.png" alt="">
           </picture>
-        
           <picture>
             <source srcset="images/main-bg/wing6.png"><img class="backgrounds__img backgrounds__img--6" src="images/main-bg/wing6.png" alt="">
           </picture>
@@ -145,11 +139,6 @@ include_once ("languages/lang-".$contentLang.".php");
             </div>
           </section>
         </main>
-        <!-- <footer class="footer"> 
-          <div class="container"> 
-            <div class="footer__inner"></div>
-          </div>
-        </footer> -->
       </div>
       <div class="popup modal" id="popup-modal">
         <div class="popup__wrapper">

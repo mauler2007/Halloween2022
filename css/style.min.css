@@ -10,12 +10,10 @@ html {
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
 }
-
 ul,
 ol {
   padding: 0;
 }
-
 body,
 h1,
 h2,
@@ -34,11 +32,9 @@ dl,
 dd {
   margin: 0;
 }
-
 ul {
   list-style: none;
 }
-
 img {
   max-width: 100%;
   display: block;
@@ -3675,28 +3671,22 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   background-image: url("../images/sprite.png");
   background-position: -54px -0px;
 }
-
 .icon-en {
   background-image: url("../images/sprite.png");
   background-position: -36px 55px;
 }
-
 .icon-de {
   background-image: url("../images/sprite.png");
   background-position: 0px 36px;
 }
-
 .icon-el {
   background-image: url("../images/sprite.png");
   background-position: -18px -18px;
 }
-
-
 .icon-tr {
   background-image: url("../images/sprite.png");
   background-position: -36px -36px;
 }
-
 .icon-ua {
   background-image: url("../images/sprite.png");
   background-position: -54px 36px;
